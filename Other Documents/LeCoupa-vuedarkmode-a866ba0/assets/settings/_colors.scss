@@ -1,0 +1,86 @@
+/* **************************************************************************
+   SETTINGS > COLORS
+   To get the color name: http://veli.ee/colorpedia/?c=354052
+   ************************************************************************** */
+
+// BLACK
+
+$black: #000000;
+$ebony-clay: #222c3c;
+$ebony-clay-2: #273142;
+$mirage: #1b2431;
+$oxford-blue: #313d4f;
+$woodsmoke: #171819;
+
+// BLUE
+
+$azure-radiance: #0093ee;
+$dodger-blue: #2da1f8;
+
+// GREEN
+
+$apple: #4ece3d;
+$malachite: #1bb934;
+
+// GREY
+
+$nepal: #8dabc4;
+$regent-st-blue: #a8c6df;
+
+// ORANGE
+
+$sunglow: #ffc82e;
+$supernova: #faca00;
+
+// PURPLE
+
+$portage: #ab7df6;
+
+// RED
+
+$cinnabar: #e44023;
+$crimson: #e0102b;
+
+// TURQUOISE
+
+$java: #26c1c9;
+
+// WHITE
+
+$athens-gray: #fafbfc;
+$barley-white: #fff5cc;
+$white: #ffffff;
+
+// SOCIAL
+
+$facebook: #3b5998;
+$google: #db4437;
+$messenger: #0084ff;
+$twitter: #1da1f2;
+
+// DATASETS
+
+$mainColors: (
+  black: $oxford-blue,
+  blue: $azure-radiance,
+  green: $malachite,
+  orange: $supernova,
+  purple: $portage,
+  red: $crimson,
+  turquoise: $java,
+  white: $white
+);
+
+$socialColors: (
+  facebook: $facebook,
+  google: $google,
+  messenger: $messenger,
+  twitter: $twitter
+);
+
+$statusColors: (
+  error: $crimson,
+  normal: $azure-radiance,
+  success: $malachite,
+  warning: $supernova
+);

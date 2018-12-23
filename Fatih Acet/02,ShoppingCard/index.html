@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<!--
+        foreachte gezerken v-bind demeliyiz.
+      
+        <a v-bind:href="item.url">
+        <img v-bind:src="item.image" alt=""> 
+
+      Attrbiutelerıne verı verecegım ıcın v-bind dedik.Normal yazdırma olursa =>
+        <p class="seller">{{item.seller}}
+    
+Dizinin length=0 ise yok desın=>
+            <p v-if="!cartim.length">Herhangi bir item yok</p>
+    -->
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="main.css">
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.5.17/dist/vue.js"></script>
+    <script src="app.js"></script>
+</head>
+
+<body>
+
+    <div id="app">
+
+        <p v-if="isLoading">Loading</p>
+        <h2>Shopping Card</h2>
+        <p v-if="!cartim.length">No item in Shopping Card</p>
+        <div class="cart">
+            <!-- item i ve indexi alıyoruz -->
+            <div class="item" v-for="(item,index) in cartim">
+                <div class="image">
+                    <!-- v-bind olayi -->
+                    <a v-bind:href="item.url">
+                        <img v-bind:src="item.image" alt="">
+                    </a>
+                </div>
+                <div class="info">
+                    <h4>{{item.name}}</h4>
+                    <p class="seller">{{item.seller}}</p>
+                    <!-- IF-ELSE OLAYI v-if  v-else -->
+                    <p class="status available" v-if="item.yayinda">Stokta Var.</p>
+                    <p class="status-nonavailable" v-else>Stokta Yok .</p>
+                    <p class="shipping" v-if="item.kargokDestekli">Ücretsiz Kargo</p>
+                    <!-- Click eventi verip arkadan yakalama olayı -->
+                    <a href="#" v-on:click="removeFromCartOrSave(index,'c')">Delete</a>
+                    <a href="#" class="secondary" v-on:click="addCardRemoveSaveorother(index,'c')">Save For Later</a>
+                </div>
+                <p class="price">${{item.price.toFixed(2)}}</p>
+            </div>
+            <!-- carTotal direk properti olarak geldi computed propertisinin içinde.. -->
+            <div class="subtotal">Subtotal ({{cartim.length}}) Item<span v-if="cartim.length>1">s</span> : <span class="price">$
+                    {{cartTotal}}</span> </div>
+        </div>
+
+        <hr>
+        <h2>Save For Later <span style="color:green">({{kayitlilar.length}})</span></h2>
+        <p v-if="!kayitlilar.length">No item in Save For Later</p>
+        <div class="cart">
+            <div class="item" v-for="(item,index) in kayitlilar">
+                <div class="image">
+                    <a v-bind:href="item.url">
+                        <img v-bind:src="item.image" alt="">
+                    </a>
+                </div>
+                <div class="info">
+                    <h4>{{item.name}}</h4>
+                    <p class="seller">{{item.seller}}</p>
+                    <p class="status available" v-if="item.yayinda">Stokta Var.</p>
+                    <p class="status-nonavailable" v-else>Stokta Yok .</p>
+                    <p class="shipping" v-if="item.kargokDestekli">Ücretsiz Kargo</p>
+                    <a href="#" v-on:click="removeFromCartOrSave(index,'s')">Delete</a>
+                    <a href="#" class="secondary" v-on:click="addCardRemoveSaveorother(index,'s')">Move to Card</a>
+                </div>
+                <p class="price">${{item.price.toFixed(2)}}</p>
+            </div>
+
+        </div>
+    </div>
+</body>
+
+</html>

@@ -1,0 +1,39 @@
+
+Herhangi bir sayfada @click=linkdegis diyerek linkdegis fonsıyonunda;
+this.$router.push({ name:'home',params:{id:2}});
+tabiki main.jste router verdıgımız yerde
+=>   {path:'/user/:id',component:UserDetails, name:'home'},
+dersek dırek oraya gecebılıyoruz
+----------------
+
+import Vue from 'vue'
+import VueRouter from 'vue-router'
+
+import App from './App.vue'
+import Home from './components/home.vue'
+import UserDetails from './components/userdetails.vue'
+
+Vue.use(VueRouter);
+
+const router= new VueRouter({
+ routes:[
+   {path:'/',component:Home},
+   {path:'/user/:id',component:UserDetails}    //************ burada id aldık parametre olarak
+  ],
+  //********** burada #'yı yok ettık linkteki
+mode:'history'
+});
+
+
+=>>>>>>>>>>>>  {{$route.params.id}}
+
+
+ fetch(`https://jsonplaceholder.typicode.com/users/${this.$route.params.id}`)
+
+
+
+new Vue({
+  el: '#app',
+  render: h => h(App),
+  router:router
+})

@@ -1,0 +1,33 @@
+{
+    "cart": [
+        {
+            "url": "https://t.hizliresim.com/p0BbM0-s.png",
+            "image": "https://t.hizliresim.com/p0BbM0-s.png",
+            "name": "Saat",
+            "seller": "Harun Akyuz",
+            "yayinda": true,
+            "kargokDestekli": true,
+            "price": 15.00
+        },
+        {
+            "url": "https://www.youtube.com/?hl=tr&gl=TR",
+            "image": "https://t.hizliresim.com/vJgZ9O-s.jpg",
+            "name": "Kamyon",
+            "seller": "GHa Akfssyuz",
+            "yayinda": false,
+            "kargoDestekli": false,
+            "price": 16.10
+        }
+    ],
+    "saved": [
+        {
+            "url": "https://www.youtube.com/watch?v=L9r-aOQb3XM",
+            "image": "https://t.hizliresim.com/y4ylya-s.png",
+            "name": "Tır",
+            "seller": "Merve Erbel",
+            "yayinda": true,
+            "kargoDestekli": true,
+            "price": 20.90
+        }
+    ]
+}

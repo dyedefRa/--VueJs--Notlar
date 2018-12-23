@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.5.17/dist/vue.js"></script>
+    <script src="main.js"></script>
+    <style>
+
+
+        h1{
+    text-align: center;
+}
+form{
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+}
+#useful-links ul{
+    padding: 0;
+}
+#useful-links li{
+    display: inline-block;
+    margin-right: 10px;
+}
+form > div{
+    padding: 20px;
+    background: #eee;
+    margin: 20px 0;
+}
+#form-header{
+    background: #ddd;
+    border: 1px solid #bbb;
+}
+     
+    </style>
+</head>
+
+<body>
+    <div id="app">
+        <form-helper>
+            <div slot="form-header">
+                <h1> Formun başlığı</h1>
+                <p>Açıklama kısmı</p>
+            </div>
+            <div slot="form-fields">
+                <input type="text" placeholder="Isim" required />
+                <input type="password" placeholder="Parola" required />
+            </div>
+
+            <div slot="form-controls">
+                <button @click="goSubmit">Submit</button>
+
+            </div>
+        </form-helper>
+
+    </div>
+</body>
+
+</html>

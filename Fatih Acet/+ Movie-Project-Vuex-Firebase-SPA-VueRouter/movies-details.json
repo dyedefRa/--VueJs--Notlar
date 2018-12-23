@@ -1,0 +1,459 @@
+{
+  "363088":  {
+        "adult": false,
+        "backdrop_path": "/6P3c80EOm7BodndGBUAJHHsHKrp.jpg",
+        "belongs_to_collection": {
+            "id": 422834,
+            "name": "Karınca Adam Serisi",
+            "poster_path": "/fixDhEstFF5FfB4IPUCuGlgAp5J.jpg",
+            "backdrop_path": "/9Qw6r4e8xbyLdJGKv4zX4RVnrZo.jpg"
+        },
+        "budget": 140000000,
+        "genres": [
+            {
+                "id": 28,
+                "name": "Aksiyon"
+            },
+            {
+                "id": 12,
+                "name": "Macera"
+            },
+            {
+                "id": 35,
+                "name": "Komedi"
+            },
+            {
+                "id": 878,
+                "name": "Bilim-Kurgu"
+            },
+            {
+                "id": 10751,
+                "name": "Aile"
+            },
+            {
+                "id": 10749,
+                "name": "Romantik"
+            }
+        ],
+        "homepage": "https://www.marvel.com/movies/ant-man-and-the-wasp",
+        "id": 363088,
+        "imdb_id": "tt5095030",
+        "original_language": "en",
+        "original_title": "Ant-Man and the Wasp",
+        "overview": "Kaptan Amerika: Kahramanların Savaşı filminin ardından Scott Lang, hem baba hem süper kahraman olarak seçimlerinin sonucuyla uğraşmaktadır. Bir yandan ev yaşamıyla Ant-Man olarak sorumluluklarını dengede tutmaya çalışırken, acil bir görevle birlikte Hope Van Dyk ve Dr. Hank Pym ile karşı karşıya kalır. Scott bir kez daha kostümünü giymek ve geçmişin sırlarını ortaya çıkarmak için Wasp ile omuz omuz savaşmayı öğrenmek zorundadır.",
+        "popularity": 247.334,
+        "poster_path": "/1xvzGSJ3sBOCUBjxohMYPcrlbAS.jpg",
+        "production_companies": [
+            {
+                "id": 420,
+                "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+                "name": "Marvel Studios",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2018-07-04",
+        "revenue": 465879576,
+        "runtime": 119,
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Karınca Adam ve Eşek Arısı",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 2521
+    },
+ "348350":   {
+        "adult": false,
+        "backdrop_path": "/96B1qMN9RxrAFu6uikwFhQ6N6J9.jpg",
+        "belongs_to_collection": {
+            "id": 10,
+            "name": "Yıldız Savaşları Serisi",
+            "poster_path": "/iTQHKziZy9pAAY4hHEDCGPaOvFC.jpg",
+            "backdrop_path": "/d8duYyyC9J5T825Hg7grmaabfxQ.jpg"
+        },
+        "budget": 250000000,
+        "genres": [
+            {
+                "id": 28,
+                "name": "Aksiyon"
+            },
+            {
+                "id": 12,
+                "name": "Macera"
+            },
+            {
+                "id": 878,
+                "name": "Bilim-Kurgu"
+            },
+            {
+                "id": 80,
+                "name": "Suç"
+            },
+            {
+                "id": 37,
+                "name": "Vahşi Batı"
+            },
+            {
+                "id": 10749,
+                "name": "Romantik"
+            }
+        ],
+        "homepage": "https://www.starwars.com/films/solo",
+        "id": 348350,
+        "imdb_id": "tt3778644",
+        "original_language": "en",
+        "original_title": "Solo: A Star Wars Story",
+        "overview": "Genç kaçakçı Han Solo (Alden Ehrenreich), galaksinin en gizli ve tehlikeli köşelerinde yer altı dünyasında kendine bir yer edinmeye çalışırken, ileride çok iyi arkadaş olacağı Chewbacca, bir başka ünlü kaçakçı Lando Calrissian (Donald Glover) ve ona büyük yardımları dokunacak Tobias Beckett (Woody Harrelson) ile yolu kesişir.",
+        "popularity": 109.857,
+        "poster_path": "/3IGbjc5ZC5yxim5W0sFING2kdcz.jpg",
+        "production_companies": [
+            {
+                "id": 1,
+                "logo_path": "/o86DbpburjxrqAzEDhXZcyE8pDb.png",
+                "name": "Lucasfilm",
+                "origin_country": "US"
+            },
+            {
+                "id": 2,
+                "logo_path": "/4MbjW4f9bu6LvlDmyIvfyuT3boj.png",
+                "name": "Walt Disney Pictures",
+                "origin_country": "US"
+            },
+            {
+                "id": 47706,
+                "logo_path": null,
+                "name": "Allison Shearmur Productions",
+                "origin_country": "US"
+            },
+            {
+                "id": 23,
+                "logo_path": "/mkxNjThahj5pvntvYKVpMbWXm3D.png",
+                "name": "Imagine Entertainment",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2018-05-15",
+        "revenue": 392952373,
+        "runtime": 135,
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Han Solo: Bir Star Wars Hikayesi",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 2078
+    },
+  "335983":  {
+        "adult": false,
+        "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+        "belongs_to_collection": null,
+        "budget": 116000000,
+        "genres": [
+            {
+                "id": 27,
+                "name": "Korku"
+            },
+            {
+                "id": 878,
+                "name": "Bilim-Kurgu"
+            },
+            {
+                "id": 28,
+                "name": "Aksiyon"
+            },
+            {
+                "id": 53,
+                "name": "Gerilim"
+            }
+        ],
+        "homepage": "http://www.venom.movie/site/",
+        "id": 335983,
+        "imdb_id": "tt1270797",
+        "original_language": "en",
+        "original_title": "Venom",
+        "overview": "Eddie Brock hırslı bir muhabirdir. Sevgilisinin çalıştığı araştırma firmasının sahibi de peşinde olduğu hikayelerden biridir. Kötü niyetli ve kendi amaçları doğrultusunda hareket eden bu adamın hikayesinin peşinde koşarken, Eddie, sadece simbiyoz hâlinde yaşayabilen ve adrenalinle beslenen uzaylı bir organizmanın firma tarafından keşfedildiğini ve insan deneklerle birleştirilmeye çalışıldığını öğrenir.",
+        "popularity": 692.629,
+        "poster_path": "/tyxdWSGCoXHz4EqPpTZCpsFzms9.jpg",
+        "production_companies": [
+            {
+                "id": 5,
+                "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+                "name": "Columbia Pictures",
+                "origin_country": "US"
+            },
+            {
+                "id": 7505,
+                "logo_path": "/837VMM4wOkODc1idNxGT0KQJlej.png",
+                "name": "Marvel Entertainment",
+                "origin_country": "US"
+            },
+            {
+                "id": 34,
+                "logo_path": "/GagSvqWlyPdkFHMfQ3pNq6ix9P.png",
+                "name": "Sony Pictures",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2018-10-03",
+        "revenue": 205230000,
+        "runtime": 112,
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Venom: Zehirli Öfke",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 562
+    },
+  "351286":  {
+        "adult": false,
+        "backdrop_path": "/3s9O5af2xWKWR5JzP2iJZpZeQQg.jpg",
+        "belongs_to_collection": {
+            "id": 328,
+            "name": "Jurassic Park [Seri]",
+            "poster_path": "/qIm2nHXLpBBdMxi8dvfrnDkBUDh.jpg",
+            "backdrop_path": "/pJjIH9QN0OkHFV9eue6XfRVnPkr.jpg"
+        },
+        "budget": 170000000,
+        "genres": [
+            {
+                "id": 28,
+                "name": "Aksiyon"
+            },
+            {
+                "id": 12,
+                "name": "Macera"
+            },
+            {
+                "id": 878,
+                "name": "Bilim-Kurgu"
+            },
+            {
+                "id": 27,
+                "name": "Korku"
+            }
+        ],
+        "homepage": "http://www.jurassicworld.com/?redirect=off",
+        "id": 351286,
+        "imdb_id": "tt4881806",
+        "original_language": "en",
+        "original_title": "Jurassic World: Fallen Kingdom",
+        "overview": "İlk filmde yaşanan facianın ardından, Claire’in (Bryce Dallas Howard) parkı yönetirken birer market ürünü gibi gördüğü dinozorlara olan bakış açısı değişir ve “Dinozor Koruma Grubu” isimli bir organizasyon kurar… Amacı; aktif bir yanardağın harekete geçtiği adada yaşayan dinozorları adadan çıkarmanın bir yolunu bulmaktır… Claire, bu tehlikeli ve zor görevi yerine getirebilmek için de dinozorlara karşı baskınlığını kanıtlamış olan tanıdığı tek kişiden, Owen Grady (Chris Pratt)'den yardım ister… İkilinin bir kurtarma görevi amacıyla gittikleri adada ise her şey sarpa saracaktır…",
+        "popularity": 116.281,
+        "poster_path": "/luXBnOYDhPcbwW5fCFnFwopBFRs.jpg",
+        "production_companies": [
+            {
+                "id": 56,
+                "logo_path": "/cEaxANEisCqeEoRvODv2dO1I0iI.png",
+                "name": "Amblin Entertainment",
+                "origin_country": "US"
+            },
+            {
+                "id": 8111,
+                "logo_path": null,
+                "name": "Apaches Entertainment",
+                "origin_country": ""
+            },
+            {
+                "id": 923,
+                "logo_path": "/5UQsZrfbfG2dYJbx8DxfoTr2Bvu.png",
+                "name": "Legendary Entertainment",
+                "origin_country": "US"
+            },
+            {
+                "id": 33,
+                "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+                "name": "Universal Pictures",
+                "origin_country": "US"
+            },
+            {
+                "id": 10338,
+                "logo_path": "/el2ap6lvjcEDdbyJoB3oKiYgXu9.png",
+                "name": "Perfect World Pictures",
+                "origin_country": "CN"
+            },
+            {
+                "id": 862,
+                "logo_path": "/udTjbqPmcTbfrihMuLtLcizDEM1.png",
+                "name": "The Kennedy/Marshall Company",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2018-06-06",
+        "revenue": 1303459585,
+        "runtime": 128,
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Yaşam bir yolunu bulur.",
+        "title": "Jurassic World: Yıkılmış Krallık",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 3796
+    },
+  "447200":  {
+        "adult": false,
+        "backdrop_path": "/oMKFQmoVgB69fyXfSMu0lGlHJP2.jpg",
+        "belongs_to_collection": null,
+        "budget": 125000000,
+        "genres": [
+            {
+                "id": 28,
+                "name": "Aksiyon"
+            },
+            {
+                "id": 53,
+                "name": "Gerilim"
+            },
+            {
+                "id": 18,
+                "name": "Dram"
+            }
+        ],
+        "homepage": "https://www.skyscrapermovie.com",
+        "id": 447200,
+        "imdb_id": "tt5758778",
+        "original_language": "en",
+        "original_title": "Skyscraper",
+        "overview": "Will Sawyer  (Dwayne Johnson) , eski bir FBI Rehine Kurtarma Ekibi lideridir. Fakat artık gökdelenlerin güvenliğini değerlendirmektedir. Çin’deki görevi sırasında dünyanın en uzun ve en güvenli binası ateşler içinde kalınca tüm suç onun üzerine atılır. Bu olay üzerine artık aranan bir adam olan Will, yangının sorumlularını bularak adını temizlemeli ve binanın içinde sıkışıp kalmış olan ailesini ateş hattından kurtarmalıdır.",
+        "popularity": 82.396,
+        "poster_path": "/1oU5hdNF0O9Do4NkDezHofSFXDN.jpg",
+        "production_companies": [
+            {
+                "id": 34081,
+                "logo_path": null,
+                "name": "Flynn Picture Company",
+                "origin_country": "US"
+            },
+            {
+                "id": 923,
+                "logo_path": "/5UQsZrfbfG2dYJbx8DxfoTr2Bvu.png",
+                "name": "Legendary Entertainment",
+                "origin_country": "US"
+            },
+            {
+                "id": 73669,
+                "logo_path": "/usfW3lL4cL8eatNAlhfRrryyKkK.png",
+                "name": "Seven Bucks Productions",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2018-07-11",
+        "revenue": 292351275,
+        "runtime": 102,
+        "spoken_languages": [
+            {
+                "iso_639_1": "cn",
+                "name": "广州话 / 廣州話"
+            },
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Gökdelen",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 923
+    },
+  "552831":  {
+        "adult": false,
+        "backdrop_path": "/i406o7WkOaimPP6heKvRlQ6oZHl.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 27,
+                "name": "Korku"
+            }
+        ],
+        "homepage": null,
+        "id": 552831,
+        "imdb_id": null,
+        "original_language": "en",
+        "original_title": "Constantine: City of Demons The Movie",
+        "overview": "",
+        "popularity": 1.4,
+        "poster_path": "/dXXVaKZYzUVwqJTRYmgWza9hFPh.jpg",
+        "production_companies": [],
+        "production_countries": [],
+        "release_date": "2018-10-09",
+        "revenue": 0,
+        "runtime": null,
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Constantine: City of Demons The Movie",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 2
+    }
+}

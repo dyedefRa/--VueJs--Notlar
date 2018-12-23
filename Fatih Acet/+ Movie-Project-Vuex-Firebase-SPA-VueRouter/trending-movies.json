@@ -1,0 +1,128 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/6P3c80EOm7BodndGBUAJHHsHKrp.jpg",
+        "genre_ids": [
+            28,
+            12,
+            35,
+            878,
+            10749,
+            10751
+        ],
+        "id": 363088,
+        "original_language": "en",
+        "original_title": "Ant-Man and the Wasp",
+        "overview": "Just when his time under house arrest is about to end, Scott Lang puts again his freedom at risk to help Hope van Dyne and Dr. Hank Pym dive into the quantum realm and try to accomplish, against time and any chance of success, a very dangerous rescue mission.",
+        "poster_path": "/rv1AWImgx386ULjcf62VYaW8zSt.jpg",
+        "release_date": "2018-07-04",
+        "title": "Ant-Man and the Wasp",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 2508,
+        "popularity": 247.334
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/96B1qMN9RxrAFu6uikwFhQ6N6J9.jpg",
+        "genre_ids": [
+            28,
+            12,
+            80,
+            878,
+            37,
+            10749
+        ],
+        "id": 348350,
+        "original_language": "en",
+        "original_title": "Solo: A Star Wars Story",
+        "overview": "Through a series of daring escapades deep within a dark and dangerous criminal underworld, Han Solo meets his mighty future copilot Chewbacca and encounters the notorious gambler Lando Calrissian.",
+        "poster_path": "/3IGbjc5ZC5yxim5W0sFING2kdcz.jpg",
+        "release_date": "2018-05-15",
+        "title": "Solo: A Star Wars Story",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 2074,
+        "popularity": 109.85714 
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+        "genre_ids": [
+            28,
+            27,
+            878,
+            53
+        ],
+        "id": 335983,
+        "original_language": "en",
+        "original_title": "Venom",
+        "overview": "When Eddie Brock acquires the powers of a symbiote, he will have to release his alter-ego “Venom” to save his life.",
+        "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+        "release_date": "2018-10-03",
+        "title": "Venom",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 520,
+        "popularity": 692.62914 
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3s9O5af2xWKWR5JzP2iJZpZeQQg.jpg",
+        "genre_ids": [
+            28,
+            12,
+            27,
+            878
+        ],
+        "id": 351286,
+        "original_language": "en",
+        "original_title": "Jurassic World: Fallen Kingdom",
+        "overview": "Three years after the demise of Jurassic World, a volcanic eruption threatens the remaining dinosaurs on the isla Nublar, so Claire Dearing, the former park manager, recruits Owen Grady to help prevent the extinction of the dinosaurs once again.",
+        "poster_path": "/c9XxwwhPHdaImA2f1WEfEsbhaFB.jpg",
+        "release_date": "2018-06-06",
+        "title": "Jurassic World: Fallen Kingdom",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 3786,
+        "popularity": 116.28114 
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/oMKFQmoVgB69fyXfSMu0lGlHJP2.jpg",
+        "genre_ids": [
+            28,
+            18,
+            53
+        ],
+        "id": 447200,
+        "original_language": "en",
+        "original_title": "Skyscraper",
+        "overview": "Framed and on the run, a former FBI agent must save his family from a blazing fire in the world's tallest building.",
+        "poster_path": "/5LYSsOPzuP13201qSzMjNxi8FxN.jpg",
+        "release_date": "2018-07-11",
+        "title": "Skyscraper",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 914,
+        "popularity": 82.39614 
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/i406o7WkOaimPP6heKvRlQ6oZHl.jpg",
+        "genre_ids": [
+            27
+        ],
+        "id": 552831,
+        "original_language": "en",
+        "original_title": "Constantine: City of Demons The Movie",
+        "overview": "From executive producers David S. Gover and Greg Berlanti, The Hellblazer is back in an all-new twisted tale of mystery, intrigue and the occult with Constantine: City of Demons, a full-length, R-rated feature film based on the acclaimed DC animated series from CW Seed.",
+        "poster_path": "/dXXVaKZYzUVwqJTRYmgWza9hFPh.jpg",
+        "release_date": "2018-10-09",
+        "title": "Constantine: City of Demons The Movie",
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0,
+        "popularity": 1.414 
+    }
+]

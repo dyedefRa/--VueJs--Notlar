@@ -1,0 +1,38 @@
+02- deki app.js in içindeki;
+
+  
+        computed: {
+          
+            cartTotal() {
+                let total=0;
+                this.cartim.forEach((s)=>{
+                    total+=s.price;
+                })
+                return total.toFixed(2);
+            }
+
+        },
+
+olayi componed properti dir. Bu oto olarak guncellemek istedigimiz bir veriyi gunceller. Proptur yanı gerıye value donderıp ıstedıgımız gıbı arkada ıslem yaptırabılıyoruz.
+
+------
+ props:{
+     kullanici:{
+         type:Object,
+         required:true
+     }
+ }
+ -----
+String Interpolitian ********************
+
+  fetch(
+        `https://api.giphy.com/v1/gifs/search?q=${searchtenquery}&api_key=VBGsY73K9PfwLCKXCZI1lGx8I6heP0ob&limit=50&rating=G`
+      )
+        .then(res => {
+          return res.json();
+        })
+        .then(res => {
+          this.prevegidecekdizi = res.data;
+        });
+
+Alt Gr+, = ``

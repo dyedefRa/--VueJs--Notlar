@@ -1,0 +1,27 @@
+#bag{
+    width: 200px;
+    height: 500px;
+    margin: 0 auto;
+    background:url(/uygulama/img/bag.png) center no-repeat;
+    background-size: 80%; 
+}
+#bag.kirilmis{
+    background:url(/uygulama/img/bag-burst.png) center no-repeat;
+    background-size: 80%; 
+}
+
+#bag-health{
+    width: 200px;
+    border: 1px solid #000;
+    margin: 0 auto 20px auto;
+  
+}
+
+#bag-health div{
+    height: 20px;
+    background: crimson;
+}
+#contols{
+    width: 120px;
+    margin: 0 auto;
+}

@@ -1,0 +1,20 @@
+baþlangýç => bu templateyi olusturuyor
+
+vue init webpack-simple projeadi
+
+ardýnda projene gýrýyosun
+cd myproject €
+
+pakage.json dosyasýnda ki dependienceleri indiriyorusun
+npm install €
+
+ve çalýþtýrýyorsun.
+npm run dev€
+
+
+
+
+ <span v-if="role.name == 'Admin'">Yes</span>
+
+
+v-if="!lock || status== 'ok' "

@@ -1,0 +1,11 @@
+<template>
+    <div class="search">
+        <input type="text" name="" id="" v-model="query" @keypress.enter="handleSearch">
+        <button @click="handleSearch">Search</button>
+      
+    </div>
+</template>
+
+
+-----
+Inputtayken entera basarsan handleSearch adındakı metodu calıstırır.
